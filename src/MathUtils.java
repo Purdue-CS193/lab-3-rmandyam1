@@ -37,7 +37,7 @@ public class MathUtils {
             double dividedRes = divideNumbers(1, res);
             return dividedRes;
         }
-        /* Otherwise, we are safe to just return the result */
+        /* Otherwise, we are safe to just return the result heloo*/
         else {
             return res;
         }
